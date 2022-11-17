@@ -3,6 +3,6 @@
  * email: amin15-1951@diu.edu.bd
  */
 
-library flutter_ratings;
+library flutter_rating_native;
 
 export 'src/flutter_rating.dart';

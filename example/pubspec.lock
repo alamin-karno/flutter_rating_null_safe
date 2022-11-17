@@ -62,7 +62,7 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "2.0.1"
-  flutter_ratings:
+  flutter_rating_native:
     dependency: "direct dev"
     description:
       path: ".."

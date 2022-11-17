@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_ratings/flutter_ratings.dart';
+import 'package:flutter_rating_native/flutter_rating_native.dart';
 
 void main() {
   runApp(const MyApp());
