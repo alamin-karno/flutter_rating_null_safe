@@ -51,6 +51,7 @@ FlutterRatings(
   starCount: 5,
   borderColor: Colors.grey,
   color: Colors.amber,
+  allowHalfRating: true,
   size: 20,
   mainAxisAlignment: MainAxisAlignment.center,
   onRatingChanged: (rating) {
