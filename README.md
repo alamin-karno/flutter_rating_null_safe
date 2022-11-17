@@ -59,6 +59,12 @@ FlutterRatings(
 ),
 ```
 
+## Screenshot (GIF)
+
+| Flutter Rating UI (GIF) |
+| :---: |
+| <img src="https://github.com/alamin-karno/flutter_ratings/blob/main/example/screenshots/flutter_rattings.gif?raw=true"> |
+
 ## Additional information
 
 - [Flutter Ratings (pub.dev)](https://pub.dev/packages/flutter_ratings)
