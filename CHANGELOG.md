@@ -1,3 +1,6 @@
 ## 0.0.1
 
-* TODO: Describe initial release.
+* Simple design to create star rating.
+* Added CHANGELOG.md
+* Added README.md
+* Added LICENSE
