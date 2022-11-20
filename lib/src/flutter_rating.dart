@@ -70,7 +70,7 @@ class FlutterRating extends StatelessWidget {
     this.borderColor = Colors.grey,
     this.size,
     this.allowHalfRating = false,
-    this.mainAxisAlignment = MainAxisAlignment.start,
+    this.mainAxisAlignment = MainAxisAlignment.center,
   }) : super(key: key);
 
   @override
