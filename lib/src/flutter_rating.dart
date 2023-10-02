@@ -24,7 +24,7 @@ import 'package:flutter/material.dart';
 /// [double] is the new rating.
 typedef RatingChangeCallback = void Function(double rating);
 
-/// [FlutterRatingBar] is a widget that displays a rating bar.
+/// [FlutterRating] is a widget that displays a rating bar.
 /// The rating bar can be customized by changing the [starCount], [size],
 /// [rating], [mainAxisAlignment], [allowHalfRating], [borderColor],
 /// [color], [onRatingChanged]

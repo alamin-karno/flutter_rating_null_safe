@@ -1,7 +1,7 @@
-name: flutter_rating_native
-description: Flutter Ratings Native is a simple package to show ratings in flutter.
-version: 0.0.2
-homepage: https://github.com/alamin-karno/flutter_rating_native
+name: flutter_rating_null_safe
+description: Flutter Ratings is a simple package to show ratings in flutter.
+version: 0.0.3
+homepage: https://github.com/alamin-karno/flutter_rating_null_safe
 
 environment:
   sdk: '>=2.12.0 <3.0.0'

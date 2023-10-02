@@ -1,3 +1,7 @@
+## 0.0.3
+
+* Change the name of the package
+
 ## 0.0.2
 
 * CHANGE 'mainAxisAlignment' to 'MainAxisAlignment.center'

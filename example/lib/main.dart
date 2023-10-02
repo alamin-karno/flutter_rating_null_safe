@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 // ignore: depend_on_referenced_packages
-import 'package:flutter_rating_native/flutter_rating_native.dart';
+import 'package:flutter_rating_null_safe/flutter_rating_null_safe.dart';
 
 void main() {
   runApp(const MyApp());
