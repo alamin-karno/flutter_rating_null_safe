@@ -6,7 +6,7 @@ A Flutter package to show ratings in a beautiful way. It is highly customizable 
 <p align="center">
   <a href="https://pub.dev/packages/flutter_rating_null_safe"><img alt="pub version" src="https://img.shields.io/pub/v/flutter_rating_null_safe?color=%2300b0ff&label=flutter_rating_null_safe&style=flat-square"></a>
   <a href="https://codecov.io/gh/alamin-karno/flutter_rating_null_safe">
-  <img src="https://codecov.io/gh/alamin-karno/flutter_rating_null_safe/branch/master/graph/badge.svg?token=NULL"/>
+  <img src="https://codecov.io/gh/alamin-karno/flutter_rating_null_safe/branch/master/graph/badge.svg?token=718cbc2a-1bbe-4a49-8b40-046f339be2be"/>
   </a>
   <img alt="last commit" src="https://img.shields.io/github/last-commit/alamin-karno/flutter_rating_null_safe?color=%23ffa000&style=flat-square"/>
   <img alt="license" src="https://img.shields.io/github/license/alamin-karno/flutter_rating_null_safe?style=flat-square"/>
